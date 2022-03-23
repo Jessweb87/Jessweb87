@@ -16,7 +16,7 @@ I look forward to putting the skills I have gained to the test. I am also lookin
 ## Currently  
 - 🌱 I’m learning **Applied Computer Science (JavaScript Algorithms)!**
 - 👯 I’m looking to collaborate on **any new projects with my peers as I am always looking to learn something new!**
-- 💬 Ask me about **going to school full-time while managing a family of 7. **
+- 💬 Ask me about **going to school full-time while managing a family of 7.**
 - 📫 How to reach me: **jprosper87@gmail.com**
 - 📃 Know about my experiences [Resume](https://docs.google.com/document/d/17CY82heSO-yGO35EUBbMoIAU6LZZXvMsekzWewv8xPc/edit?usp=sharing)
 - ⚡ Fun fact: **I like buying tv's but I never have time to watch anyhing!**
